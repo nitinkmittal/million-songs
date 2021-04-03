@@ -1,0 +1,20 @@
+name: million-songs
+channels:
+  - conda-forge
+dependencies:
+  - h5py
+  - ipykernel
+  - ipywidgets
+  - matplotlib
+  - nodejs
+  - numpy
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - seaborn
+  - typing
+  - tqdm
+  - pip:
+      - pickle-mixin
+      - lxml
